@@ -66,50 +66,53 @@ Sleep          ██░░░░░░░░ 20%
 ## 🛠️ Skills
 ✨ Currently learning and expanding this stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<table width="100%">
+  <tr>
+    <td width="25%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+    </td>
+  </tr>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+  <tr>
+    <td><strong>AI & Machine Learning</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+    </td>
+  </tr>
 
-### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <tr>
+    <td><strong>Mobile Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" />
+    </td>
+  </tr>
 
-### Mobile Development
-<img src="https://skillicons.dev/icons?i=react" />
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+    </td>
+  </tr>
 
-</td>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    </td>
+  </tr>
 
-<td valign="top" width="50%">
-
-### Backend
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</td>
-</tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📈 Skill Progress
 
-```text
-Python              ██████████░░
-Machine Learning    ████████░░░░
-Computer Vision     ███████░░░░░
-React Native        █████░░░░░░░
-Backend Development █████░░░░░░░
-Research            ██████░░░░░░
-```
-
----
 
 ## 🌐 Find Me
 
