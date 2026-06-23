@@ -64,6 +64,7 @@ Sleep          ██░░░░░░░░ 20%
 ---
 
 ## 🛠️ Skills
+✨ Currently learning and expanding this stack
 
 <table>
 <tr>
