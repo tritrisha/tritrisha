@@ -65,43 +65,35 @@ Sleep          ██░░░░░░░░ 20%
 
 ## 🛠️ Skills
 
-> This section grows as I learn new technologies.
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
 
 ### AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
 ### Mobile Development
+<img src="https://skillicons.dev/icons?i=react" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+</td>
+
+<td valign="top" width="50%">
 
 ### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 
 ### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,expo" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -126,7 +118,6 @@ Research            ██████░░░░░░
   </a>
 </p>
 
-* 💼 LinkedIn: https://www.linkedin.com/in/trisha-barma/
 
 
   <!-- * 🌐 Portfolio: https://YOUR_PORTFOLIO -->
