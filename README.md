@@ -192,10 +192,10 @@ Nobody knows why.
 
 ```bash
 Achievement Unlocked:
-Profile Explorer
+✨Profile Explorer✨
 ```
 
 
-Thanks for visiting!
+Thanks for visiting! ⭐
 
 <!--⭐ If you like my work, consider exploring my repositories.-->
