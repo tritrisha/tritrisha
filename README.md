@@ -126,7 +126,22 @@ Sleep          ██░░░░░░░░ 20%
 
   <!-- * 🌐 Portfolio: https://YOUR_PORTFOLIO -->
 
+  
+
 ---
+## ⚔️ Current Boss Battle
+
+```text
+Learning New Technologies
+████████░░ 80%
+
+Debugging
+███████░░░ 70%
+
+Finding Free Time
+██░░░░░░░░ 20%
+```
+
 
 ## 📄 Resume
 
@@ -140,12 +155,15 @@ Sleep          ██░░░░░░░░ 20%
 ---
 
 
-## 🎲 Random Developer Facts
+
+
+
+## 🎲 Accurate Random Developer Facts
 
 <details>
 <summary>Fact #1</summary>
 
-I enjoy learning by building things from scratch.
+99% of programming is convincing the computer you meant what you typed.
 
 </details>
 
@@ -159,11 +177,23 @@ Most bugs disappear immediately after asking someone else for help.
 <details>
 <summary>Fact #3</summary>
 
-Every expert was once a beginner.
+The code works.
+
+Nobody knows why.
 
 </details>
 
 ---
+## 🎬 End Credits
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+</p>
+
+```bash
+Achievement Unlocked:
+Profile Explorer
+```
 
 
 Thanks for visiting!
