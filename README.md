@@ -135,7 +135,15 @@ Research            ██████░░░░░░
 
 ## 📄 Resume
 
-📥 **[View Resume](./resume.pdf)**
+<p>
+  <a href="https://www.overleaf.com/read/cghbszyhtngc#55398e">
+    <img src="https://img.shields.io/badge/View%20Resume-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
+  </a>
+</p>
+
+👉 **[View My Resume](https://www.overleaf.com/read/cghbszyhtngc#55398e)**
+
+---
 
 
 ## 🎲 Random Developer Facts
