@@ -187,7 +187,7 @@ Nobody knows why.
 ## 🎬 End Credits
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGZ6cWZ4a2NjZjg0MWdtbHkwcjY1dDhvNHd1dDVpcHRtendwa3N6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" width="300">
 </p>
 
 ```bash
