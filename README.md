@@ -82,16 +82,16 @@ Sleep          ██░░░░░░░░ 20%
   </tr>
 
   <tr>
-    <td><strong>Mobile Development</strong></td>
+    <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" />
+      <img src="https://skillicons.dev/icons?i=html,css,react" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
     </td>
   </tr>
 
@@ -105,7 +105,7 @@ Sleep          ██░░░░░░░░ 20%
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     </td>
   </tr>
 </table>
