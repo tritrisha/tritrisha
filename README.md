@@ -137,13 +137,6 @@ Research            ██████░░░░░░
 
 📥 **[View Resume](./resume.pdf)**
 
-Upload your resume file to this repository and name it:
-
-```text
-resume.pdf
-```
-
----
 
 ## 🎲 Random Developer Facts
 
@@ -170,26 +163,6 @@ Every expert was once a beginner.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tritrisha&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tritrisha&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tritrisha&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tritrisha&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 Thanks for visiting!
 
