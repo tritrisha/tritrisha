@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### *Curious mind • Continuous learner • Turning ideas into reality*
+### ✨ Curious mind • Continuous learner • Turning ideas into reality
 
 </div>
 
@@ -29,7 +29,7 @@ Choose your next move:
 
 ✨ **Curiosity Explorer**
 
-Reward: +100 XP
+**+100 XP**
 
 > Keep learning. Keep building. Keep growing.
 
@@ -69,50 +69,79 @@ Sleep          ██░░░░░░░░ 20%
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-Learning-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
-![C++](https://img.shields.io/badge/C++-Learning-blue)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+</p>
 
 ### AI & Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Learning-red)
-![OpenCV](https://img.shields.io/badge/OpenCV-Learning-green)
-![NumPy](https://img.shields.io/badge/NumPy-Learning-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Learning-purple)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow" />
+</p>
 
 ### Mobile Development
 
-![React Native](https://img.shields.io/badge/React_Native-Learning-blue)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Learning-green)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Learning-green)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-Using-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Using-black)
-![VS Code](https://img.shields.io/badge/VS_Code-Using-blue)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,expo" />
+</p>
 
 ---
 
+## 📈 Skill Progress
 
+```text
+Python              ██████████░░
+Machine Learning    ████████░░░░
+Computer Vision     ███████░░░░░
+React Native        █████░░░░░░░
+Backend Development █████░░░░░░░
+Research            ██████░░░░░░
+```
+
+---
 
 ## 🌐 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/trisha-barma)
+<p align="left">
+  <a href="https://www.linkedin.com/in/trisha-barma/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+* 💼 LinkedIn: https://www.linkedin.com/in/trisha-barma/
+
+
+  <!-- * 🌐 Portfolio: https://YOUR_PORTFOLIO -->
 
 ---
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/View_Resume-PDF-red)](./resume.pdf)
+📥 **[View Resume](./resume.pdf)**
 
-Replace `resume.pdf` with your uploaded resume file.
+Upload your resume file to this repository and name it:
+
+```text
+resume.pdf
+```
 
 ---
 
@@ -143,19 +172,25 @@ Every expert was once a beginner.
 
 ## 📊 GitHub Stats
 
-> Uncomment after creating the profile.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tritrisha&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tritrisha&layout=compact&theme=tokyonight" />
+</p>
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tritrisha&theme=tokyonight" />
+</p>
 
 ---
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tritrisha&theme=tokyonight&row=1&column=6" />
+</p>
 
-Thanks for stopping by!
+---
 
+Thanks for visiting!
+
+<!--⭐ If you like my work, consider exploring my repositories.-->
