@@ -141,7 +141,6 @@ Research            ██████░░░░░░
   </a>
 </p>
 
-👉 **[View My Resume](https://www.overleaf.com/read/cghbszyhtngc#55398e)**
 
 ---
 
