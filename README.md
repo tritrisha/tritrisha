@@ -129,18 +129,6 @@ Sleep          ██░░░░░░░░ 20%
   
 
 ---
-## ⚔️ Current Boss Battle
-
-```text
-Learning New Technologies
-████████░░ 80%
-
-Debugging
-███████░░░ 70%
-
-Finding Free Time
-██░░░░░░░░ 20%
-```
 
 
 ## 📄 Resume
