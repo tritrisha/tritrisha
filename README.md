@@ -12,16 +12,6 @@
 
 You've entered my GitHub profile.
 
-Choose your next move:
-
-| Option               | Destination             |
-| -------------------- | ----------------------- |
-| 🧑‍💻 Learn About Me | Scroll Down             |
-| 🛠️ View Skills      | Continue Reading        |
-| 🌐 Connect With Me   | Find Me Section         |
-| 📄 Resume            | Resume Section          |
-| 🎁 Secret Reward     | Open the Treasure Chest |
-
 <details>
 <summary>🎁 Open Treasure Chest</summary>
 
