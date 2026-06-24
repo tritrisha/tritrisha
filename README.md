@@ -30,7 +30,7 @@ You've entered my GitHub profile.
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="80%" valign="top">
 
 ### 🧑‍💻 About Me
 
@@ -83,7 +83,7 @@ Sleep          ██░░░░░░░░ 20%
 
 <table width="100%">
   <tr>
-    <td width="25%"><strong>Languages</strong></td>
+    <td width="20%"><strong>Languages</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
     </td>
