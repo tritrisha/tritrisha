@@ -26,8 +26,13 @@ You've entered my GitHub profile.
 </details>
 
 ---
-
 ## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Character Profile
 
 ```bash
 $ whoami
@@ -38,9 +43,17 @@ Status    : Exploring new technologies
 Mission   : Learning, Building, Improving
 ```
 
----
+✨ Turning curiosity into knowledge.
 
-## ⚡ Developer Status
+🚀 Interested in AI, Computer Vision, and Mobile Development.
+
+⚡ Fun Fact: The code works perfectly until someone asks me to explain it.
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ Developer Status
 
 ```text
 System Status
@@ -50,6 +63,18 @@ Motivation     █████████░ 90%
 Coffee         ████████░░ 80%
 Sleep          ██░░░░░░░░ 20%
 ```
+
+
+### 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 📱 React Native
+- 📚 Continuous Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
