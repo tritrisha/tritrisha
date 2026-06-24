@@ -26,13 +26,13 @@ You've entered my GitHub profile.
 </details>
 
 ---
-## 🧑‍💻 About Me
+## 
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="65%" valign="top">
 
-### Character Profile
+### 🧑‍💻 About Me
 
 ```bash
 $ whoami
@@ -51,7 +51,7 @@ Mission   : Learning, Building, Improving
 
 </td>
 
-<td width="45%" valign="top">
+<td width="35%" valign="top">
 
 ### ⚡ Developer Status
 
