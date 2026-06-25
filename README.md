@@ -35,7 +35,6 @@ You've entered my GitHub profile.
 ### 🧑‍💻 About Me
 
 ```bash
-
 Name      : Trisha
 Role      : Student & Lifelong Learner
 Status    : Exploring new technologies
@@ -44,7 +43,7 @@ Mission   : Learning, Building, Improving
 
 ✨ Turning curiosity into knowledge.
 
-🚀 Interested in AI, Computer Vision, and Mobile Development.
+🚀 Interested in Frontend Development and ML.
 
 ⚡ Fun Fact: The code works perfectly until someone asks me to explain it.
 
@@ -66,7 +65,7 @@ Sleep          ██░░░░░░░░ 20%
 
 ### 🎯 Current Focus
 
-- 🤖 Artificial Intelligence
+- 🤖 Machine Learning
 - 👁️ Computer Vision
 - 📱 React Native
 - 📚 Continuous Learning
