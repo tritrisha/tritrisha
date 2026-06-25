@@ -35,7 +35,6 @@ You've entered my GitHub profile.
 ### 🧑‍💻 About Me
 
 ```bash
-$ whoami
 
 Name      : Trisha
 Role      : Student & Lifelong Learner
