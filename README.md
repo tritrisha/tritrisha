@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### ✨ Curious mind • Continuous learner • Turning ideas into reality
+### ✨ Curious mind • Continuous learner • Turning ideas into reality ✨
 
 </div>
 
